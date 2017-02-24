@@ -1,11 +1,12 @@
 After Download files from git hub 
-You will be having a folder "WebCrawlerProgram" contains below file
+You will be having a folder "WebCrawlerProgram" contains below files
 1. run.bat 
 2. WebCrawlerSampleProgram.java
 3. WebCrawlerSampleProgram.class
 4. README.md
+5. CrawlResults.txt
 
-Steps to complie and execute
+Steps to compile and execute
 =============================
 There are three ways to run program to see output
 
@@ -27,7 +28,9 @@ There are three ways to run program to see output
 	3.4 Verify Output
 
 
-
+Program will print links on console and also will writes the links into file CrawlResults.txt. 
+Check file or console for output.
+Thanks..
 
 
 I would have used available ready made Library If I had more time. Also I would be using multi threading concept for better performance.
