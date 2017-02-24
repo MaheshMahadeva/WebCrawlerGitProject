@@ -1,0 +1,2 @@
+javac WebCrawlerSampleProgram.java
+java WebCrawlerSampleProgram
